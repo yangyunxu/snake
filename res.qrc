@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/rsc">
+        <file>images/logo.ico</file>
+        <file>images/snakeheaddown.png</file>
+        <file>images/snakeheadleft.png</file>
+        <file>images/snakeheadright.png</file>
+        <file>images/snakeheadup.png</file>
+        <file>images/food.png</file>
+        <file>images/snakebodyh.png</file>
+        <file>images/snakebodyv.png</file>
+    </qresource>
+</RCC>
